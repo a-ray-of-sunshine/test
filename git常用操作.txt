@@ -1,0 +1,11 @@
+添加远程仓库
+git remote add origin "ssh-url"
+
+从远程仓库拉取内容
+git pull origin master
+
+将本地仓库的内容添加到远程仓库
+git push origin master
+
+
+
